@@ -1,10 +1,10 @@
 # Findings Summary
 
-## 1
+## 1 What does the base plan cost before any add-ons? (the intercept)
 
 The estimated base-plan charge is $24.97 per month.
 
-## 2
+## 2 How much does each individual add-on contribute to the monthly bill?
 
 Based on the multivariable linear regression model, each service contributes approximately the following amount to the monthly bill:
 
